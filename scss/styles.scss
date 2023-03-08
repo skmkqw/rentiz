@@ -126,7 +126,7 @@ body{
 		pointer-events: all;
 	}
 	@media (max-width:500px){
-		width: clamp(19.375rem, 1.375rem + 90vw, 25rem);
+		width: clamp(18.75rem, -6.25rem + 125vw, 25rem);
 	}
 	@media (max-height:480px){
 		height: 100vh;
