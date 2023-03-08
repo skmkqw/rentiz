@@ -131,6 +131,9 @@ body{
 	@media (max-height:480px){
 		height: 100vh;
 	}
+	@media (max-width:360px){
+		width: 300px;
+	}
 
 	//.login-exit
 
